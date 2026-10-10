@@ -1,8 +1,8 @@
 # Anisur Rahman Bayazid
 
-**Public health researcher building tools for qualitative research, geospatial fieldwork, and urban heat vulnerability mapping.**
+**Public health researcher working across qualitative research, quantitative analysis, geospatial analysis, and urban heat vulnerability mapping.**
 
-I am a researcher based in Dhaka, Bangladesh, at the **BRAC James P Grant School of Public Health, BRAC University**. My projects connect public health research with practical software for analysing qualitative data, collecting field data, and exploring spatial patterns.
+I am a researcher based in Dhaka, Bangladesh, at the **BRAC James P Grant School of Public Health, BRAC University**. My work combines qualitative research, quantitative analysis, and geospatial analysis. My projects connect public health research with practical software for analysing data, collecting field data, and exploring spatial patterns.
 
 [Explore my repositories](https://github.com/anisur-bayazid25?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/anisur-bayazid/) · [Email](mailto:anisur.rahman.bayazid@gmail.com)
 
@@ -45,7 +45,7 @@ An interactive **Heat Vulnerability Index (HVI)** atlas for Dhaka, Bangladesh. E
 
 ## Research and development interests
 
-Qualitative research and thematic analysis · Public health research · Geographic information systems (GIS) · Offline survey tools and XLSForm · Urban heat vulnerability · Spatial data visualisation · Research software
+Qualitative research and thematic analysis · Quantitative analysis · Geospatial analysis · Public health research · Geographic information systems (GIS) · Offline survey tools and XLSForm · Urban heat vulnerability · Spatial data visualisation · Research software
 
 ## Connect
 
